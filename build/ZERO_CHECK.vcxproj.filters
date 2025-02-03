@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\adars\Desktop\Coding\mlir-project\build\CMakeFiles\87194f9ebbcb6a84cc69e0dcf913d099\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9D73E4F2-C4CA-3BAF-919A-60969499B2BB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
